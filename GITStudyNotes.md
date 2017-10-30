@@ -1,5 +1,7 @@
 GIT Study Notes
 ===
+[learn from Liao Xuefeng](https://www.liaoxuefeng.com/)
+
 # GIT简介
 ## 安装GIT
 ### 在Mac Os X上安装GIT
